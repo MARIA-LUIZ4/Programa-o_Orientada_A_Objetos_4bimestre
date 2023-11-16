@@ -1,6 +1,1 @@
-Curso: informatica, Nome Completo: capitaoinfo, E-mail: vapitao@gmail.com, Número de Matrícula: 2022105050060, Data de nascimento: 22/12/1989, Número da camisa: 10
-Curso: eletro, Nome Completo: capitaoeletro, E-mail: capitaoeletro@gmail.com, Número de Matrícula: 2023106060033, Data de nascimento: 21/12/2005, Número da camisa: 13
-Curso: edifica, Nome Completo: capitaoedifica, E-mail: caapitaoedifica@gmail.com, Número de Matrícula: 2022106060055, Data de nascimento: 21/08/2005, Número da camisa: 19
-Curso: quimica, Nome Completo: capitaoquimica, E-mail: capitaoquimica@gmail.com, Número de Matrícula: 2022106060077, Data de nascimento: 12/08/2004, Número da camisa: 11
-Curso: quimica verpertino, Nome Completo: capitaoquimicavespertino, E-mail: quimicavespertino@gmail.com, Número de Matrícula: 2022106060088, Data de nascimento: 07/09/2007, Número da camisa: 09
-Curso: informatica vespertino, Nome Completo: capitaoinfovesp, E-mail: infovesp@gmail.com, Número de Matrícula: 2022106060045, Data de nascimento: 23/07/2004, Número da camisa: 90
+
