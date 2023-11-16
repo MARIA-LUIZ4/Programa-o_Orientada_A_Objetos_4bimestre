@@ -1,4 +1,1 @@
-Nome Completo: alunoinfo1, Curso: informatica, E-mail: alunoinfo1@gmail.com, Numero de Matricula: 2022106060070, Data de Nascimento: 22/09/2004, Número da camisa: 10Nome Completo: alunoeletro, Curso: eletro, E-mail: eletroaluno@gmail.com, Numero de Matricula: 2022106060055, Data de Nascimento: 23/09/2006, Número da camisa: 23
-Nome Completo: alunoinfo2, Curso: informatica, E-mail: informatacia@gmail.com, Numero de Matricula: 2022106060050, Data de Nascimento: 23/09/2007, Número da camisa: 12
-Nome Completo: alunoinfo3, Curso: informatica, E-mail: informatica3@gmail.com, Numero de Matricula: 2022106060033, Data de Nascimento: 25/09/2003, Número da camisa: 3
-Nome Completo: alunoinfo4, Curso: informatica, E-mail: informatica4@gmail.com, Numero de Matricula: 2022106060031, Data de Nascimento: 25/03/2004, Número da camisa: 1
+
