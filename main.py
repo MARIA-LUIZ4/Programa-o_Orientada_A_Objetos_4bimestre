@@ -1,9 +1,6 @@
 #Tabalho Bimestral de Programação Orientada a Objetos
 #Professora: Camila Carolina Salgueiro Serrao
-#Alunas: Maria Luiza Rodrigues da Silva;
-#Ana Luisa Esteves;
-#Tamily Fernanda;
-#Jennifer Rebeca.
+#Aluna: Maria Luiza Rodrigues da Silva;
 from classe import SistemaDeCadastro
 from professor import Professor
 from professor import Chaveamento
